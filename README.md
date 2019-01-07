@@ -26,6 +26,3 @@ fork 自https://github.com/skywind3000/awesome-cheatsheets
 - [VIM](editors/vim.txt)
 - [Nano](editors/nano.txt)
 
-## :pray:欢迎贡献
-
-[![@chlins](https://avatars2.githubusercontent.com/u/31262637?s=56)](https://github.com/chlins) [![@microcisco](https://avatars1.githubusercontent.com/u/9547228?s=56)](https://github.com/microcisco) [![@ziyenano](https://avatars0.githubusercontent.com/u/11867700?s=56)](https://github.com/ziyenano) [![@fyzzy1943](https://avatars3.githubusercontent.com/u/5002182?s=56)](https://github.com/fyzzy1943)[![@0xPoker](https://avatars1.githubusercontent.com/u/30389809?s=56&v=4)](https://github.com/490694561)
